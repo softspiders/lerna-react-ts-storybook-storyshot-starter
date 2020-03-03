@@ -2,7 +2,7 @@
 
 # react-ts-storybook-storyshot-starter
 
-Minimalistic React module in TypeScript with Storybook and Snapshot Testing in Lerna monorepo
+Starter for React UI library in TypeScript with Storybook and Snapshot Testing in Lerna monorepo
 
 UNDER DEVELOPMENT
 
