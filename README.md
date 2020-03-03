@@ -29,7 +29,7 @@ UNDER DEVELOPMENT
 
 ## Direct descendants - also by code
 
-[-*lerna*: react-ts-storybook-storyshots](https://github.com/softspiders/react-ts-storybook-storyshots)
+[***-lerna***: react-ts-storybook-storyshots](https://github.com/softspiders/react-ts-storybook-storyshots)
 
 ---
 
