@@ -17,8 +17,7 @@ UNDER DEVELOPMENT
 - storyshot
 - template
 - typescript
-- test
-- ui
+- uilib
 
 ---
 
