@@ -16,8 +16,8 @@ UNDER DEVELOPMENT
 - storybook
 - storyshot
 - template
-- test
 - typescript
+- test
 - ui
 
 ---
