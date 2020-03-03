@@ -16,7 +16,8 @@
 		"storyshot",
 		"jest",
 		"test",
-		"template"
+		"template",
+		"uilib"
 	],
 	"devDependencies": {
 		"lerna": "latest",
