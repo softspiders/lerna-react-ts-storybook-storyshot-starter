@@ -2,7 +2,7 @@
 
 # react-ts-storybook-storyshots
 
-Minimalistic React module in TypeScript with Storybook and Snapshot testing in Lerna monorepo
+Minimalistic React module in TypeScript with Storybook and Snapshot Testing in Lerna monorepo
 
 UNDER DEVELOPMENT
 
