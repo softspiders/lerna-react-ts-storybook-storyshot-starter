@@ -2,6 +2,7 @@
 	"name": "lerna-react-ts-storybook-storyshots",
 	"version": "0.1.0",
 	"description": "Minimalistic React module in TypeScript with Storybook and Storyshots in Lerna monorepo",
+	"author": "https://github.com/AlexanderLapygin <alexanderlapygin@gmail.com>",
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
 		"clean": "lerna clean",
