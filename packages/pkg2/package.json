@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ryancavanaugh/pkg1": "^3.0.2"
+    "@softspiders/uilib": "^0.1.0"
   },
   "devDependencies": {
     "typescript": "latest"

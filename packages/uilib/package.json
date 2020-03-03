@@ -1,5 +1,5 @@
 {
-  "name": "uilib",
+  "name": "@softspiders/uilib",
   "version": "0.1.0",
   "description": "Minimalistic React module in TypeScript with Storybook and Storyshots",
   "main": "lib/index.js",
