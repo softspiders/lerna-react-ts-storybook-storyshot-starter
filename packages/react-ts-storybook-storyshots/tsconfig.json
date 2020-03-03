@@ -1,0 +1,23 @@
+{
+  "extends": "../tsconfig.settings.json",
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "es6",
+    "moduleResolution": "node",
+    "lib": ["esnext", "dom"],
+    "target": "es5",
+    "jsx": "react",
+    "rootDirs": ["src"],
+    "allowJs": true,
+
+    "outDir": "lib",
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
