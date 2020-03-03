@@ -2,11 +2,14 @@
 
 # react-ts-storybook-storyshots
 
-Minimalistic React module in TypeScript with Storybook and Storyshots
+Minimalistic React module in TypeScript with Storybook and Snapshot testing in Lerna monorepo
+
+UNDER DEVELOPMENT
 
 ## Feature tags
 
 - jest
+- lerna
 - react
 - snapshot
 - starter
@@ -26,7 +29,7 @@ Minimalistic React module in TypeScript with Storybook and Storyshots
 
 ## Direct descendants - also by code
 
-[cra-ts-uilib-storybook-storyshots-lerna](https://github.com/softspiders/cra-ts-uilib-storybook-storyshots-lerna)
+[-*lerna*: react-ts-storybook-storyshots](https://github.com/softspiders/react-ts-storybook-storyshots)
 
 ---
 
@@ -35,6 +38,7 @@ Minimalistic React module in TypeScript with Storybook and Storyshots
 * [Node.js](https://nodejs.org/en/download/package-manager/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Storybook](https://storybook.js.org/docs/guides/quick-start-guide/)
+* [Lerna](https://lerna.js.org/)
 
 ---
 
@@ -81,7 +85,7 @@ yarn storybook
 
 ## Author
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
+[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
 
 ---
 
@@ -90,8 +94,3 @@ yarn storybook
 Licensed under the [MIT license](./LICENSE).
 
 ---
-
-
-## Inspired by
-
-[shisama/react-storybook-storyshots-example](https://github.com/shisama/react-storybook-storyshots-example)
