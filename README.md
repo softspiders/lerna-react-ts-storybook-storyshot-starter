@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# react-ts-storybook-storyshots
+# react-ts-storybook-storyshot-starter
 
 Minimalistic React module in TypeScript with Storybook and Snapshot Testing in Lerna monorepo
 
