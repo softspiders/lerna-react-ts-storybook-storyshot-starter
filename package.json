@@ -1,9 +1,19 @@
 {
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
-		"storybook": "cd packages/react-ts-storybook-storyshots && npm run storybook",
-		"test": "cd packages/react-ts-storybook-storyshots && npm run test"
+		"clean": "lerna clean",
+		"storybook": "cd packages/uilib && npm run storybook",
+		"test": "cd packages/uilib && npm run test"
 	},
+	"keywords": [
+		"lerna",
+		"react",
+		"storybook",
+		"storyshot",
+		"jest",
+		"test",
+		"template"
+	],
 	"devDependencies": {
 		"lerna": "^2.11.0",
 		"typescript": "^3.0.0-dev.20180626"

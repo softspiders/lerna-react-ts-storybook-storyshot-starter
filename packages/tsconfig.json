@@ -4,6 +4,6 @@
         { "path": "pkg1" },
         { "path": "pkg2" },
         { "path": "pkg3" },
-        { "path": "react-ts-storybook-storyshots" }
+        { "path": "uilib"}
     ]
 }
