@@ -29,7 +29,7 @@
         "version": "321803162739b5bcb536b199766130dd62b0e5aef4a5264a16630342c7343d6e",
         "signature": "321803162739b5bcb536b199766130dd62b0e5aef4a5264a16630342c7343d6e"
       },
-      "./src/index.ts": {
+      "./src/index.tsx": {
         "version": "6d96ec3b817c4fcf5ad71180af53c34736538d33e85044663c590f894bd88767",
         "signature": "05b159d92f14a71594b3b1ad396bfc525679c2e11ddb2e9a13feb1134263a504"
       }
@@ -51,7 +51,7 @@
       "../pkg1/lib/index.d.ts": [
         "../pkg1/lib/foo.d.ts"
       ],
-      "./src/index.ts": [
+      "./src/index.tsx": [
         "../pkg1/lib/index.d.ts"
       ]
     },
@@ -64,7 +64,7 @@
       "../../node_modules/typescript/lib/lib.d.ts",
       "../pkg1/lib/foo.d.ts",
       "../pkg1/lib/index.d.ts",
-      "./src/index.ts",
+      "./src/index.tsx",
       "../../node_modules/typescript/lib/lib.es5.d.ts",
       "../../node_modules/typescript/lib/lib.dom.d.ts",
       "../../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",

@@ -12,9 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@softspiders/uilib": "^0.1.0"
+    "@softspiders/uilib": "^0.1.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
   },
   "devDependencies": {
-    "typescript": "latest"
+    "typescript": "3.8.3"
   }
 }

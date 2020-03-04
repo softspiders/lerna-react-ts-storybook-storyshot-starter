@@ -6,6 +6,7 @@
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
 		"clean": "lerna clean",
+		"start": "lerna run start",
 		"storybook": "cd packages/uilib && npm run storybook",
 		"test": "cd packages/uilib && npm run test"
 	},
@@ -20,7 +21,7 @@
 		"uilib"
 	],
 	"devDependencies": {
-		"lerna": "latest",
-		"typescript": "latest"
+		"lerna": "^3.20.2",
+		"typescript": "3.8.3"
 	}
 }
