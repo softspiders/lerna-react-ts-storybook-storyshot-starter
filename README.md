@@ -11,7 +11,6 @@ UNDER DEVELOPMENT
 - jest
 - lerna
 - react
-- snapshot
 - starter
 - storybook
 - storyshot
