@@ -4,8 +4,6 @@
 
 Starter for React UI library in TypeScript with Storybook and Snapshot Testing in Lerna monorepo
 
-UNDER DEVELOPMENT
-
 ## Feature tags
 
 - jest
@@ -20,14 +18,15 @@ UNDER DEVELOPMENT
 
 ---
 
-## Direct ancestors
+## Parents
 
-- [typescript-test](https://github.com/softspiders/typescript-test)
-- [typescript](https://github.com/softspiders/typescript)
+[**-jest, storyshot**](https://github.com/softspiders/react-lib-storybook-lerna-starter)
 
-## Direct descendants - also by code
+---
 
-[***-lerna***: react-ts-storybook-storyshots](https://github.com/softspiders/react-ts-storybook-storyshots)
+## Author
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
 
 ---
 
@@ -58,34 +57,36 @@ npm i
 ### Test
 
 ```sh
-yarn test
+npm test
 ```
 
 ### Build
 
+Build lib:
+
 ```sh
-yarn build
+npm run build:lib
 ```
 
+Build app:
+
+```sh
+npm run build:app
+```
 ### Start
 
 ```sh
-yarn start
+npm start
 ```
 
 ### Storybook
 
 ```sh
-yarn storybook
+npm story
 ```
 
 ---
 
-## Author
-
-[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
-
----
 
 ### License
 

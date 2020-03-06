@@ -1,5 +1,4 @@
 import React from "react";
-//import { Hello } from "./Hello";
 import { Hello } from "@softspiders/uilib/src/components/Hello";
 
 type Props = {};

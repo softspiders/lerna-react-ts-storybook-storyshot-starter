@@ -1,9 +1,9 @@
 {
-  "name": "cra-typescript-uilib-storybook-in-lerna-starter",
+  "name": "lerna-react-ts-storybook-storyshot-starter",
   "version": "1.0.0",
   "description": "Starter for Monorepos: Lerna, TypeScript, CRA and Storybook",
   "main": "index.js",
-  "repository": "https://github.com/softspider/cra-typescript-uilib-with-storybook-in-lerna",
+  "repository": "https://github.com/softspider/lerna-react-ts-storybook-storyshot-starter",
   "author": "Alexander Lapygin",
   "license": "MIT",
   "private": true,
