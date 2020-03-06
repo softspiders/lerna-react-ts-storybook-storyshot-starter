@@ -1,27 +1,22 @@
 {
-	"name": "lerna-react-ts-storybook-storyshots",
-	"version": "0.1.0",
-	"description": "Minimalistic React module in TypeScript with Storybook and Storyshots in Lerna monorepo",
-	"author": "https://github.com/AlexanderLapygin <alexanderlapygin@gmail.com>",
-	"scripts": {
-		"bootstrap": "lerna bootstrap",
-		"clean": "lerna clean",
-		"start": "lerna run start",
-		"storybook": "cd packages/uilib && npm run storybook",
-		"test": "cd packages/uilib && npm run test"
-	},
-	"keywords": [
-		"lerna",
-		"react",
-		"storybook",
-		"storyshot",
-		"jest",
-		"test",
-		"template",
-		"uilib"
-	],
-	"devDependencies": {
-		"lerna": "^3.20.2",
-		"typescript": "3.8.3"
-	}
+  "name": "cra-typescript-uilib-storybook-in-lerna-starter",
+  "version": "1.0.0",
+  "description": "Starter for Monorepos: Lerna, TypeScript, CRA and Storybook",
+  "main": "index.js",
+  "repository": "https://github.com/softspider/cra-typescript-uilib-with-storybook-in-lerna",
+  "author": "Alexander Lapygin",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.18.3"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "story": "lerna run story --stream",
+    "start": "lerna run start --stream",
+    "test": "cd packages/uilib && npm run test",
+    "build:lib": "lerna run libbuild --stream",
+    "build:app": "npm run bootstrap && npm run build:lib && cd ./packages/cra-app && npm run build",
+    "clean": "lerna clean"
+  }
 }
