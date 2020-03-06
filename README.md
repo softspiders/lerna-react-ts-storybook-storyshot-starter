@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# react-ts-storybook-storyshot-starter
+# lerna-react-ts-storybook-storyshot-starter
 
 Starter for React UI library in TypeScript with Storybook and Snapshot Testing in Lerna monorepo
 
