@@ -2,7 +2,7 @@
 
 # lerna-react-ts-storybook-storyshot-starter
 
-Starter for React UI library in TypeScript with Storybook and Snapshot Testing in Lerna monorepo
+Starter for *React* UI library in *TypeScript* with *Storybook* and Snapshot Testing by *Jest* in *Lerna* monorepo
 
 ## Feature tags
 
