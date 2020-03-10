@@ -6,8 +6,8 @@ Starter for *React* UI library in *TypeScript* with *Storybook* and Snapshot Tes
 
 ## Feature tags
 
-- jest
 - ie11
+- jest
 - lerna
 - react
 - starter
