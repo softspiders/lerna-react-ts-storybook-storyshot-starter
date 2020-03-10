@@ -82,7 +82,7 @@ npm start
 ### Storybook
 
 ```sh
-npm story
+npm run story
 ```
 
 ---
