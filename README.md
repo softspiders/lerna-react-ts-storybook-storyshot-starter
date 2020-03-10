@@ -32,10 +32,11 @@ Starter for *React* UI library in *TypeScript* with *Storybook* and Snapshot Tes
 
 ## Requirements
 
-* [Node.js](https://nodejs.org/en/download/package-manager/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Storybook](https://storybook.js.org/docs/guides/quick-start-guide/)
-* [Lerna](https://lerna.js.org/)
+- [Node.js](https://nodejs.org/en/download/package-manager/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Jest](https://jestjs.io/)
+- [Storybook](https://storybook.js.org/docs/guides/quick-start-guide/)
+- [Lerna](https://lerna.js.org/)
 
 ---
 
