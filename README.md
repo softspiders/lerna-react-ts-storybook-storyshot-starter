@@ -22,7 +22,7 @@ Starter for *React* UI library in *TypeScript* with *Storybook* and Snapshot Tes
 
 ## Parents
 
-[**- jest, storyshot**](https://github.com/softspiders/react-lib-storybook-lerna-starter)
+[**- jest, storyshot**](https://github.com/softspiders/react-lib-storybook-lerna-ts-starter)
 
 ---
 
