@@ -6,6 +6,7 @@ Starter for *React* UI library in *TypeScript* with *Storybook* and Snapshot Tes
 
 ## Feature tags
 
+- build
 - ie11
 - jest
 - lerna
