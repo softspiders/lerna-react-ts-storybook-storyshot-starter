@@ -57,7 +57,7 @@ npm i
 then
 
 ```sh
-npm run storybook
+npm run bootstrap
 ```
 
 ## Running
