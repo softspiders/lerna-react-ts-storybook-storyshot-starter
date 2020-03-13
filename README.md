@@ -54,6 +54,11 @@ or
 npm i
 ```
 
+then
+
+```sh
+npm run storybook
+```
 
 ## Running
 
